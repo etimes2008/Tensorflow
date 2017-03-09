@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import tensorflow as tf
 import numpy
-import  math
+import math
 
 print("hello world!", math.sin(1.2))
 
